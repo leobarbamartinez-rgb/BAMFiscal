@@ -3,7 +3,11 @@ import os
 
 class FiscalEngine:
     def __init__(self, data_path="tax_data.json"):
-        with open(data_path, 'r') as f:
+        # Resolve absolute path relative to this script file
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        abs_data_path = os.path.join(base_dir, data_path)
+        
+        with open(abs_data_path, 'r', encoding='utf-8') as f:
             self.data = json.load(f)
 
     def _calculate_progressive_tax(self, base, table):
