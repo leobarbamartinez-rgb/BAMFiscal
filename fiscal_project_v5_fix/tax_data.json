@@ -1,0 +1,493 @@
+{
+    "tax_year": 2026,
+    "irpf_table_estatal": [
+        {
+            "hasta": 12450,
+            "tipo": 0.095
+        },
+        {
+            "hasta": 20200,
+            "tipo": 0.12
+        },
+        {
+            "hasta": 35200,
+            "tipo": 0.15
+        },
+        {
+            "hasta": 60000,
+            "tipo": 0.185
+        },
+        {
+            "hasta": 300000,
+            "tipo": 0.225
+        },
+        {
+            "mas_de": 300000,
+            "tipo": 0.245
+        }
+    ],
+    "irpf_tables_autonomicas": {
+        "Andalucía": [
+            {
+                "hasta": 13000,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 21100,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 35200,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 60000,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 60000,
+                "tipo": 0.225
+            }
+        ],
+        "Aragón": [
+            {
+                "hasta": 13000,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 21000,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 35000,
+                "tipo": 0.155
+            },
+            {
+                "hasta": 60000,
+                "tipo": 0.19
+            },
+            {
+                "mas_de": 60000,
+                "tipo": 0.24
+            }
+        ],
+        "Asturias": [
+            {
+                "hasta": 12450,
+                "tipo": 0.10
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.155
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.19
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.255
+            }
+        ],
+        "Baleares": [
+            {
+                "hasta": 12450,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.1175
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.1475
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.1875
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.22
+            }
+        ],
+        "Canarias": [
+            {
+                "hasta": 12450,
+                "tipo": 0.09
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.14
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.235
+            }
+        ],
+        "Cantabria": [
+            {
+                "hasta": 12450,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.255
+            }
+        ],
+        "Castilla-La Mancha": [
+            {
+                "hasta": 12900,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 18400,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 34400,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 55600,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 55600,
+                "tipo": 0.225
+            }
+        ],
+        "Castilla y León": [
+            {
+                "hasta": 12450,
+                "tipo": 0.09
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.14
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.215
+            }
+        ],
+        "Cataluña": [
+            {
+                "hasta": 12450,
+                "tipo": 0.105
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.188
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.245
+            }
+        ],
+        "Extremadura": [
+            {
+                "hasta": 12900,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 18400,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 34400,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 55600,
+                "tipo": 0.185
+            },
+            {
+                "mas_de": 55600,
+                "tipo": 0.235
+            }
+        ],
+        "Galicia": [
+            {
+                "hasta": 13000,
+                "tipo": 0.09
+            },
+            {
+                "hasta": 21000,
+                "tipo": 0.115
+            },
+            {
+                "hasta": 35000,
+                "tipo": 0.149
+            },
+            {
+                "hasta": 60000,
+                "tipo": 0.184
+            },
+            {
+                "mas_de": 60000,
+                "tipo": 0.225
+            }
+        ],
+        "Madrid": [
+            {
+                "hasta": 13328,
+                "tipo": 0.085
+            },
+            {
+                "hasta": 19302,
+                "tipo": 0.107
+            },
+            {
+                "hasta": 35910,
+                "tipo": 0.128
+            },
+            {
+                "hasta": 57320,
+                "tipo": 0.174
+            },
+            {
+                "mas_de": 57320,
+                "tipo": 0.205
+            }
+        ],
+        "Murcia": [
+            {
+                "hasta": 12450,
+                "tipo": 0.096
+            },
+            {
+                "hasta": 20200,
+                "tipo": 0.123
+            },
+            {
+                "hasta": 34000,
+                "tipo": 0.153
+            },
+            {
+                "hasta": 60000,
+                "tipo": 0.188
+            },
+            {
+                "mas_de": 60000,
+                "tipo": 0.233
+            }
+        ],
+        "La Rioja": [
+            {
+                "hasta": 12450,
+                "tipo": 0.09
+            },
+            {
+                "hasta": 17707,
+                "tipo": 0.116
+            },
+            {
+                "hasta": 33007,
+                "tipo": 0.146
+            },
+            {
+                "hasta": 53407,
+                "tipo": 0.186
+            },
+            {
+                "mas_de": 53407,
+                "tipo": 0.255
+            }
+        ],
+        "Comunidad Valenciana": [
+            {
+                "hasta": 12450,
+                "tipo": 0.09
+            },
+            {
+                "hasta": 18000,
+                "tipo": 0.1025
+            },
+            {
+                "hasta": 30000,
+                "tipo": 0.1392
+            },
+            {
+                "hasta": 50000,
+                "tipo": 0.1792
+            },
+            {
+                "mas_de": 50000,
+                "tipo": 0.2142
+            }
+        ],
+        "Otros (Ceuta/Melilla/Resto)": [
+            {
+                "hasta": 12450,
+                "tipo": 0.095
+            },
+            {
+                "hasta": 20200,
+                "tipo": 0.12
+            },
+            {
+                "hasta": 35200,
+                "tipo": 0.15
+            },
+            {
+                "hasta": 60000,
+                "tipo": 0.185
+            },
+            {
+                "hasta": 300000,
+                "tipo": 0.225
+            },
+            {
+                "mas_de": 300000,
+                "tipo": 0.245
+            }
+        ]
+    },
+    "is_rates": {
+        "general": 0.25,
+        "new_entity": 0.15,
+        "dividend_withholding": 0.19
+    },
+    "ahorro_table": [
+        {
+            "hasta": 6000,
+            "tipo": 0.19
+        },
+        {
+            "hasta": 50000,
+            "tipo": 0.21
+        },
+        {
+            "hasta": 200000,
+            "tipo": 0.23
+        },
+        {
+            "hasta": 300000,
+            "tipo": 0.27
+        },
+        {
+            "mas_de": 300000,
+            "tipo": 0.28
+        }
+    ],
+    "reta_2026_provisional": {
+        "tramos": [
+            {
+                "ingresos_min": 0,
+                "ingresos_max": 670,
+                "cuota": 200
+            },
+            {
+                "ingresos_min": 670,
+                "ingresos_max": 900,
+                "cuota": 220
+            },
+            {
+                "ingresos_min": 900,
+                "ingresos_max": 1166,
+                "cuota": 240
+            },
+            {
+                "ingresos_min": 1166,
+                "ingresos_max": 1300,
+                "cuota": 260
+            },
+            {
+                "ingresos_min": 1300,
+                "ingresos_max": 1500,
+                "cuota": 280
+            },
+            {
+                "ingresos_min": 1500,
+                "ingresos_max": 1700,
+                "cuota": 300
+            },
+            {
+                "ingresos_min": 1700,
+                "ingresos_max": 1850,
+                "cuota": 320
+            },
+            {
+                "ingresos_min": 1850,
+                "ingresos_max": 2030,
+                "cuota": 340
+            },
+            {
+                "ingresos_min": 2030,
+                "ingresos_max": 2330,
+                "cuota": 360
+            },
+            {
+                "ingresos_min": 2330,
+                "ingresos_max": 2760,
+                "cuota": 380
+            },
+            {
+                "ingresos_min": 2760,
+                "ingresos_max": 3190,
+                "cuota": 400
+            },
+            {
+                "ingresos_min": 3190,
+                "ingresos_max": 3620,
+                "cuota": 420
+            },
+            {
+                "ingresos_min": 3620,
+                "ingresos_max": 4050,
+                "cuota": 440
+            },
+            {
+                "ingresos_min": 4050,
+                "ingresos_max": 6000,
+                "cuota": 500
+            },
+            {
+                "ingresos_min": 6000,
+                "ingresos_max": 9999999,
+                "cuota": 590
+            }
+        ]
+    }
+}

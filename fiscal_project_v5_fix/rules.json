@@ -1,0 +1,36 @@
+{
+    "deduccion_total_keywords": [
+        "server",
+        "cloud",
+        "software",
+        "ordinador",
+        "licencia",
+        "hosting",
+        "dominio",
+        "saas",
+        "aws",
+        "google"
+    ],
+    "deduccion_parcial_keywords": [
+        "luz",
+        "agua",
+        "internet",
+        "casa",
+        "alquiler",
+        "gas",
+        "móvil",
+        "telefono",
+        "fibra"
+    ],
+    "deduccion_conflictiva_keywords": [
+        "comida",
+        "restaurante",
+        "viaje",
+        "ropa",
+        "traje",
+        "gasolina",
+        "hotel",
+        "cine",
+        "regalo"
+    ]
+}
